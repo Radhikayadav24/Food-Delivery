@@ -168,25 +168,12 @@ screenshots/
 ```
 
 ---
-
-# 🔮 Future Improvements
-
-- Wishlist
-- Coupon System
-- Email Notifications
-- Order Reviews
-- Real-time Order Tracking
-
----
-
 # 👩‍💻 Author
 
 **Radhika Yadav**
 
 GitHub: https://github.com/Radhikayadav24
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+LinkedIn: https://www.linkedin.com/in/radhika-yadav-899269225
 
----
 
-## ⭐ If you like this project, don't forget to star the repository!
